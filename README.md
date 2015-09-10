@@ -18,6 +18,8 @@ you need to clone the python_ntfscat.py and ensure your operating system has ntf
 RUNNING THE SCRIPT
 =================
 
+
+```
 $ ./python_ntfscat.py 
 
 [user@localhost python_ntfscat]# python3 test_main.py 
@@ -94,8 +96,6 @@ Select your option: 21
  21 : DigitalLocker
  22 : DirectX.log
  23 : Downloaded Installations
- 24 : Downloaded Program Files
- 25 : DPINST.LOG
  26 : DtcInstall.log
  27 : ELAMBKUP
  28 : en-US
@@ -170,7 +170,7 @@ Select your option: 21
   Continue running [Yes/No]: no
 
 [user@localhost ~] $
-
+```
 
 
 TODO 
