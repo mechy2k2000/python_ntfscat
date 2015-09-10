@@ -1,3 +1,5 @@
+A llinux python 3 application for data recovery
+
 WARNING !!!!
 ===============
 Very EXPERIMENTAL AND HACKISH. USE with caution!!!           
@@ -7,7 +9,7 @@ python_ntfscat by Rafeal Stewart
 
 INTRODUCTION
 =================
-A simple Python 3 linux command line application that provides a simple user interface for the unix command ntfscat. I wrote to provide a quicker way of grab individual files from NTFS partitions on failing hard drives.
+A simple Python 3 linux command line application that provides a simple user interface for the unix command ntfscat. I wrote to provide a quicker way of grab individual files from NTFS partitions on failing hard drives. Think of it as a scalpel intended to get that certain file off of a failing drive.
 
 
 INSTALLING
